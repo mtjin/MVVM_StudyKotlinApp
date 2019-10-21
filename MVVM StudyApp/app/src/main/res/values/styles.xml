@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--AppCompat 대신 새로운 새로운 머터리얼 디자인 테마를 사용함(MaterialComponents).-->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>
